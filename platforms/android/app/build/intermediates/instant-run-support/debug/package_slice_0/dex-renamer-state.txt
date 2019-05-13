@@ -1,0 +1,4 @@
+#Wed May 08 13:25:30 MSK 2019
+base.0=/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex
