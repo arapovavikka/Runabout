@@ -1,8 +1,110 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-ja/multiimagechooser_strings_ja.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "669,712,179,116,485,564,55,332,403,258",
+                        "endColumns": "42,35,78,62,78,104,60,70,81,73",
+                        "endOffsets": "707,743,253,174,559,664,111,398,480,327"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,134,213,276,355,460,521,592,674",
+                        "endColumns": "42,35,78,62,78,104,60,70,81,73",
+                        "endOffsets": "93,129,208,271,350,455,516,587,669,743"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-ko/multiimagechooser_strings_ko.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "669,712,182,116,485,564,55,332,403,265",
+                        "endColumns": "42,35,82,65,78,104,60,70,81,66",
+                        "endOffsets": "707,743,260,177,559,664,111,398,480,327"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,134,217,283,362,467,528,599,681",
+                        "endColumns": "42,35,82,65,78,104,60,70,81,66",
+                        "endOffsets": "93,129,212,278,357,462,523,594,676,743"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-fr/multiimagechooser_strings_fr.xml",
+                    "from": {
+                        "startLines": "9,10,3,2,7,8,1,5,6,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "710,754,164,77,526,605,16,373,444,281",
+                        "endColumns": "43,35,116,86,78,104,60,70,81,91",
+                        "endOffsets": "749,785,276,159,600,705,72,439,521,368"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,135,252,339,418,523,584,655,737",
+                        "endColumns": "43,35,116,86,78,104,60,70,81,91",
+                        "endOffsets": "94,130,247,334,413,518,579,650,732,824"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1364",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1433"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/camera_ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
                 {
                     "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/strings.xml",
                     "from": {
@@ -13,11 +115,113 @@
                         "endOffsets": "223,100,159"
                     },
                     "to": {
-                        "startLines": "2,3,4",
+                        "startLines": "3,4,9",
                         "startColumns": "4,4,4",
-                        "startOffsets": "55,119,169",
+                        "startOffsets": "101,165,490",
                         "endColumns": "63,49,58",
-                        "endOffsets": "114,164,223"
+                        "endOffsets": "160,210,544"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/multiimagechooser_strings_en.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "821,864,275,197,637,716,136,484,555,393",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "859,895,388,270,711,816,192,550,632,479"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,258,294,412,549,628,733,794,865,947",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "253,289,407,485,623,728,789,860,942,1033"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/camera_theme.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1038",
+                        "endLines": "21",
+                        "endColumns": "10",
+                        "endOffsets": "1359"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-es/multiimagechooser_strings_es.xml",
+                    "from": {
+                        "startLines": "10,11,5,4,8,9,2,6,7,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "723,768,298,209,539,618,55,386,457,116",
+                        "endColumns": "44,35,87,88,78,104,60,70,81,92",
+                        "endOffsets": "763,799,381,293,613,718,111,452,534,204"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,136,224,313,392,497,558,629,711",
+                        "endColumns": "44,35,87,88,78,104,60,70,81,92",
+                        "endOffsets": "95,131,219,308,387,492,553,624,706,799"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-de/multiimagechooser_strings_de.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "777,823,217,116,573,660,55,401,477,317",
+                        "endColumns": "45,35,99,100,86,116,60,75,95,83",
+                        "endOffsets": "818,854,312,212,655,772,111,472,568,396"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,137,237,338,425,542,603,679,775",
+                        "endColumns": "45,35,99,100,86,116,60,75,95,83",
+                        "endOffsets": "96,132,232,333,420,537,598,674,770,854"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values-hu/multiimagechooser_strings_hu.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "745,788,201,116,561,640,55,408,479,312",
+                        "endColumns": "42,35,110,84,78,104,60,70,81,95",
+                        "endOffsets": "783,819,307,196,635,740,111,474,556,403"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,134,245,330,409,514,575,646,728",
+                        "endColumns": "42,35,110,84,78,104,60,70,81,95",
+                        "endOffsets": "93,129,240,325,404,509,570,641,723,819"
                     }
                 }
             ]

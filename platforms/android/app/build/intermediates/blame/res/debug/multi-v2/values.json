@@ -4,6 +4,42 @@
             "outputFile": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1364",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1433"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/camera_ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
                     "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "4,2,3",
@@ -13,11 +49,47 @@
                         "endOffsets": "223,100,159"
                     },
                     "to": {
-                        "startLines": "2,3,4",
+                        "startLines": "3,4,9",
                         "startColumns": "4,4,4",
-                        "startOffsets": "55,119,169",
+                        "startOffsets": "101,165,490",
                         "endColumns": "63,49,58",
-                        "endOffsets": "114,164,223"
+                        "endOffsets": "160,210,544"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/multiimagechooser_strings_en.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "821,864,275,197,637,716,136,484,555,393",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "859,895,388,270,711,816,192,550,632,479"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,258,294,412,549,628,733,794,865,947",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "253,289,407,485,623,728,789,860,942,1033"
+                    }
+                },
+                {
+                    "source": "/Users/mobiledev/GitKraken/Runabout/platforms/android/app/src/main/res/values/camera_theme.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1038",
+                        "endLines": "21",
+                        "endColumns": "10",
+                        "endOffsets": "1359"
                     }
                 }
             ]
